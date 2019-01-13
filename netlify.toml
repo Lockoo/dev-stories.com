@@ -1,0 +1,7 @@
+[build]
+publish = "public"
+
+[context.production.environment]
+HUGO_VERSION = "0.53"
+
+https://dev-stories.netlify.com/* https://dev-stories.com/:splat 301!

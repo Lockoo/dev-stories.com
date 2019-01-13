@@ -1,4 +1,4 @@
 baseURL = "https://dev-stories.com/"
 languageCode = "en-us"
-title = "Welcome to my Dev-Stories!"
+title = "Welcome to Dev-Stories!"
 theme = "ananke"
