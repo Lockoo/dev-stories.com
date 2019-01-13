@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://dev-stories.netlify.com/* https://dev-stories.com/:splat 301!
