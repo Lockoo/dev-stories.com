@@ -1,7 +1,11 @@
+[Settings]
+
 [build]
-publish = "public"
+  publish = "public"
 
-[context.production.environment]
-HUGO_VERSION = "0.53"
-
-https://dev-stories.netlify.com/* https://dev-stories.com/:splat 301!
+[context.production]
+  HUGO_VERSION = "0.53"
+	
+[[redirects]]
+  from = https://dev-stories.netlify.com/*
+  to = https://dev-stories.com/:splat 301!
