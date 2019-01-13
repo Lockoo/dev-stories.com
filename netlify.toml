@@ -7,5 +7,5 @@
   HUGO_VERSION = "0.53"
 	
 [[redirects]]
-  from = https://dev-stories.netlify.com/*
-  to = https://dev-stories.com/:splat 301!
+  from = "https://dev-stories.netlify.com/*"
+  to = "https://dev-stories.com/:splat 301!"
