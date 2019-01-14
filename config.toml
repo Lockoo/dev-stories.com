@@ -11,7 +11,7 @@ Paginate = 3 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics = ""
 enableRobotsTXT = true
 
-disqusShortname = https-dev-stories-com
+disqusShortname = "https-dev-stories-com"
 show_reading_time = true
 
 [sitemap]
