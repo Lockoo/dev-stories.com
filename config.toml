@@ -11,6 +11,9 @@ Paginate = 3 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics = ""
 enableRobotsTXT = true
 
+disqusShortname = https-dev-stories-com
+show_reading_time = true
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
@@ -28,5 +31,5 @@ enableRobotsTXT = true
   linkedin = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  featured_image = "/images/binary_background.png"
   recent_posts_number = 2
