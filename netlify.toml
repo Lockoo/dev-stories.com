@@ -6,6 +6,8 @@
 
 [context.production]
   HUGO_VERSION = "0.53"
+  HUGO_ENV = "production"
+  
 	
 [[redirects]]
   from = "https://dev-stories.netlify.com/*"
