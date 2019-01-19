@@ -5,7 +5,7 @@ draft: false
 tags: ["hugo", "markdown"]
 show_reading_time: true
 toc: true
-featured_image = "/images/hello_world"
+featured_image: "images/hello_world.jpg"
 ---
 
 ## Hello, World!
