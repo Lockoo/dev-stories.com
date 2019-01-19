@@ -10,7 +10,7 @@ SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = "UA-109508067-2"
 enableRobotsTXT = true
-toc = true
+
 
 disqusShortname = "https-dev-stories-com"
 
@@ -23,6 +23,7 @@ disqusShortname = "https-dev-stories-com"
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
+ 
 
 [params]
   addThis = "ra-5c3dbb296f9e69c7"
@@ -39,3 +40,16 @@ disqusShortname = "https-dev-stories-com"
   background_color_class = "bg-black"
   featured_image = "/images/binary_background.png"
   recent_posts_number = 2
+
+[related]
+  threshold = 80
+  includeNewer = true
+  toLower =  true
+  
+  [[related.indices]]
+	name = "tags"
+	weight = 100.0
+
+  [[related.indices]]
+	name = "date"
+	weight = 10.0
