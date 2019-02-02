@@ -40,7 +40,8 @@ disqusShortname = "https-dev-stories-com"
   background_color_class = "bg-black"
   featured_image = "/images/binary_background.jpg"
   recent_posts_number = 2
-
+  custom_css = ["css/custom.css"]
+  
 [related]
   threshold = 80
   includeNewer = true
