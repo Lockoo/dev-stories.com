@@ -1,5 +1,5 @@
 .resp-sharing-button {
-	font-size: 0.35em;
+	font-size: 1em;
 }
 
 .resp-sharing-button__link,
@@ -10,7 +10,7 @@
 .resp-sharing-button__link {
   text-decoration: none;
   color: #fff;
-  margin: 0.5em
+  margin: 0.35em
 }
 
 .resp-sharing-button {
@@ -21,8 +21,8 @@
 }
 
 .resp-sharing-button__icon svg {
-  width: 1.5em;
-  height: 1.5em;
+  width: 2em;
+  height: 2em;
   margin-right: 0.4em;
   vertical-align: top
 }
@@ -210,3 +210,15 @@ background-color: #FF6600
 
 .resp-sharing-button--telegram:hover {
   background-color: #4B97D1;}
+  
+  
+  
+  
+.pa0 {
+	-webkit-columns: 2;
+	-moz-columns: 2;
+	columns: 2
+	list-style-position: inside;
+}	
+  
+  
