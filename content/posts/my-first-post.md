@@ -2,7 +2,7 @@
 title: "My First Post"
 date: 2019-01-13T10:14:26+01:00
 draft: false
-tags: ["hugo", "markdown"]
+tags: ["hugo", "markdown", "cooltag", "awesometag"]
 show_reading_time: true
 toc: true
 featured_image: "images/hello_world.jpg"
