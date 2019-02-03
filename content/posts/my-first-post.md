@@ -6,6 +6,7 @@ tags: ["hugo", "markdown", "cooltag", "awesometag"]
 show_reading_time: true
 toc: true
 featured_image: "images/hello_world.jpg"
+### show_comments: true
 ---
 
 ## Hello, World!
