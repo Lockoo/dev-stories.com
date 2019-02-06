@@ -1,5 +1,4 @@
 title = "Welcome to Dev-Stories!"
-description = "On Java, Spring Boot, Cloud, Microservices, Angular and Everything Dev"
 baseURL = "https://dev-stories.com/"
 languageCode = "en-us"
 theme = "ananke"
@@ -27,9 +26,8 @@ disqusShortname = "https-dev-stories-com"
  
 
 [params]
-  addThis = "ra-5c3dbb296f9e69c7"
-  favicon = ""
   description = "On Java, Spring Boot, Cloud, Microservices, Angular and Everything Dev"
+  favicon = ""
   facebook = ""
   twitter = "https://twitter.com/Dev_Stories_"
   instagram = ""
