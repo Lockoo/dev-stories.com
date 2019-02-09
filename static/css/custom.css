@@ -13,7 +13,9 @@
   margin: 0.35em
 }
 
-.a:link, a:visited, a:active {
+
+
+a.green {
 	color: #19A974;
 }
 
