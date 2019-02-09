@@ -13,6 +13,11 @@
   margin: 0.35em
 }
 
+.a:link, a:visited, a:active {
+	color: #19A974;
+}
+
+
 .resp-sharing-button {
   border-radius: 5px;
   transition: 25ms ease-out;

@@ -1,4 +1,5 @@
 title = "Welcome to Dev-Stories!"
+description = "On Java, Spring Boot, Cloud, Microservices, Angular and Everything Dev"
 baseURL = "https://dev-stories.com/"
 languageCode = "en-us"
 theme = "ananke"
@@ -26,7 +27,7 @@ disqusShortname = "https-dev-stories-com"
  
 
 [params]
-  description = "On Java, Spring Boot, Cloud, Microservices, Angular and Everything Dev"
+  NewsletterSignup = "https://tinyletter.com/dev-storiesdotcom"
   favicon = ""
   facebook = ""
   twitter = "https://twitter.com/Dev_Stories_"
@@ -40,7 +41,10 @@ disqusShortname = "https-dev-stories-com"
   featured_image = "/images/binary_background.jpg"
   recent_posts_number = 2
   custom_css = ["css/custom.css"]
-  
+
+	
+ 
+ 
 [related]
   threshold = 80
   includeNewer = true
