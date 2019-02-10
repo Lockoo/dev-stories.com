@@ -1,5 +1,5 @@
 .resp-sharing-button {
-	font-size: 0.7em;
+	font-size: 0.25m;
 }
 
 .resp-sharing-button__link,
@@ -10,7 +10,7 @@
 .resp-sharing-button__link {
   text-decoration: none;
   color: #fff;
-  margin: 0.35em
+  margin: 0.08em
 }
 
 
