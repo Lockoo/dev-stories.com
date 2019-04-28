@@ -11,7 +11,7 @@ featured_image: "images/hello_world.jpg"
 ## Hello, World!
 
 This is me experimenting with _Markdown_
-{{< rawhtml > }} <a href="http://google.com" class="dim dark-green">Inline link
+{{< rawhtml >}} <a href="http://google.com" class="dim dark-green"> Inline link </a>
 {{< /rawhtml >}}
 
 
