@@ -13,11 +13,10 @@
   margin: 0.08em
 }
 
-h3 {
-	color: red;
-}
 
-li:hover a { color: red }
+li:hover a { color: light-green }
+li a {color: dark-green }
+
 
 .resp-sharing-button {
   border-radius: 5px;
