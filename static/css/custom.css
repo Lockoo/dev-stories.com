@@ -1,5 +1,5 @@
 .resp-sharing-button {
-	font-size: 0.6em;
+	font-size: 0.65em;
 }
 
 .resp-sharing-button__link,
@@ -11,14 +11,6 @@
   text-decoration: none;
   color: #fff;
   margin: 0.08em
-}
-
-.h1{
-	color: #19A974;
-}
-
-a.green {
-	color: #19A974;
 }
 
 
