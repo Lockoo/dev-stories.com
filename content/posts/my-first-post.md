@@ -5,6 +5,7 @@ draft: false
 tags: ["hugo", "markdown", "cooltag", "awesometag"]
 show_reading_time: true
 featured_image: "images/hello_world.jpg"
+toc: true
 ### show_comments: true
 ---
 
