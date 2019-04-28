@@ -13,6 +13,9 @@
   margin: 0.08em
 }
 
+h3 {
+	color: red;
+}
 
 .resp-sharing-button {
   border-radius: 5px;
