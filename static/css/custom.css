@@ -14,8 +14,9 @@
 }
 
 
-li:hover a { color: light-green }
-li a {color: dark-green }
+li a {color: darkgreen }
+li:hover a { color: lightgreen }
+
 
 
 .resp-sharing-button {
