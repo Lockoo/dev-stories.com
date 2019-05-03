@@ -16,13 +16,16 @@
 
 
 
-#TableOfContents > li a {
-	color: darkgreen;
-}
 
-#TableOfContents > li:hover a {
-	color: lightgreen;
-}
+#TableOfContents li a {color: #137752 }
+#TableOfContents li a:hover { color: #8BB2A5 }
+
+ul.pa0 li a {color: #137752; }
+ul.pa0 li a:hover {color: #8BB2A5; }
+
+ul.pa1 li a {color: #137752; }
+ul.pa1 li a:hover {color: #8BB2A5; }
+
 
 
 .resp-sharing-button {

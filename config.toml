@@ -7,7 +7,7 @@ theme = "ananke"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = "UA-109508067-2"
 enableRobotsTXT = true
 
@@ -41,8 +41,11 @@ disqusShortname = "https-dev-stories-com"
   featured_image = "/images/binary_background.jpg"
   recent_posts_number = 5
   custom_css = ["css/custom.css"]
+  mainSections = ["posts", "Java"]
+  tags = ["Hugo", "Java"]
 
-	
+
+
  
  
 [related]
