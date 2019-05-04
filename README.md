@@ -1,3 +1,3 @@
-# Mein Blog [Dev-Stories.com] (https://dev-stories.com/)
+# Mein Blog https://dev-stories.com/
 
 
