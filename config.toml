@@ -1,4 +1,4 @@
-title = "Welcome to Dev-Stories!"
+title = "Dev-Stories"
 baseURL = "https://dev-stories.com/"
 languageCode = "en-us"
 theme = "ananke"
@@ -26,7 +26,7 @@ disqusShortname = "https-dev-stories-com"
  
 
 [params]
-  description = "On Java, Spring Boot, Cloud, Microservices, Angular and Everything Dev"
+  description = "Dev Blog about Enterprise Java, Cloud and the Daily Life of a Software Engineer"
   NewsletterSignup = "https://tinyletter.com/dev-storiesdotcom"
   favicon = ""
   facebook = ""
