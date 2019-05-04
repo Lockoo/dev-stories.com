@@ -43,6 +43,7 @@ disqusShortname = "https-dev-stories-com"
   custom_css = ["css/custom.css"]
   mainSections = ["posts", "Java"]
   tags = ["Hugo", "Java", ]
+  Author = ["Lucas Spiller"]
 
 
 

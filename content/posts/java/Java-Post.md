@@ -5,6 +5,7 @@ draft: false
 tags: ['java']
 featured_image: 'images/Duke.jpg'
 toc: true
+Author: 'Lucas Spiller'
 ---
 
 ## Java Jakarta
