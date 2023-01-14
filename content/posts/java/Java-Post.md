@@ -3,7 +3,7 @@ title: 'Java Post'
 date: 2019-05-03
 draft: false
 tags: ['java']
-featured_image: 'images/Duke.jpg'
+featured_image: 'images/Duke.avif'
 toc: true
 Author: 'Lucas Spiller'
 ---

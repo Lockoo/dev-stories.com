@@ -4,7 +4,7 @@ date: 2019-02-10T19:31:13+01:00
 draft: false
 tags: ['hugo', 'markdown', 'cooltag', 'awesometag']
 show_reading_time: true
-featured_image: 'images/hello_world.jpg'
+featured_image: 'images/hello_world.avif'
 toc: true
 ### show_comments: true
 ---

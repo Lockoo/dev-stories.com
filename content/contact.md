@@ -5,7 +5,7 @@ type: page
 draft: false
 menu:
   main: {}
-featured_image: 'images/contact.jpg'
+featured_image: 'images/contact.avif'
 ---
 
 Feel free to contact me about just anything.
