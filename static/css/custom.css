@@ -232,7 +232,7 @@ background-color: #FF6600
 .pa0 {
 	-webkit-columns: 2;
 	-moz-columns: 2;
-	columns: 2
+	columns: 2;
 	list-style-position: inside;
 }	
   
