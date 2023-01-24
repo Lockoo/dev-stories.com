@@ -41,7 +41,7 @@ disqusShortname = "https-dev-stories-com"
   featured_image = "/images/binary_background.avif"
   recent_posts_number = 5
   custom_css = ["css/custom.css"]
-  mainSections = ["posts", "Java"]
+  mainSections = ["posts",]
   tags = ["Hugo", "Java", ]
   Author = ["Lucas Spiller"]
 
