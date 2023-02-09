@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
-tags: []
+tags: ["Java"]
 featured_image: = ""
 description: ""
 author: "Lucas Spiller"
