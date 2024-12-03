@@ -1,7 +1,7 @@
 ---
 title: "https://NotionHabitHeroes.com NH2 Launch"
 date: 2024-12-03
-draft: true
+draft: false
 tags: ["notionhabitheroes"]
 featured_image: "images/android-chrome-512x512.webp"
 toc: true
