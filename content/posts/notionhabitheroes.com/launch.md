@@ -8,16 +8,18 @@ toc: true
 Author: 'https://notionhabitheroes.com'
 ---
 
-**yes** __bla__
-
-
-# NotionHabitHeroes social competitive habit tracking app
+# Join the Competitive Social Habit Tracker!
 Join Notion Habit Heroes, the app for Gamification of your life!
 - [social competitive habit tracking app](https://notionhabitheroes.com)
-## Seamless Notion integration
-some more text
-- [NotionHabitHeroes social competitive habit tracking app](#notionhabitheroes-social-competitive-habit-tracking-app)
-- [Seamless Notion integration](#seamless-notion-integration)
+## Achieve your goals alongside your friends and stay accountable with seamless Notion integration. Self-improvement, together.
+
+Social & Competitive Habit Tracking with Friends
+Gamification of your Life and Habits
+Score Points For Performing Your Daily Habits
+Participate in Challenges
+Stay accountable: Compare Scores & Streaks With Your Friends
+Celebrate Milestones Together And Achieve Goals
+
 
 
 # backstory
