@@ -1,5 +1,5 @@
 ---
-title: "NotionHabitHeroes NH2 Launch"
+title: "NotionHabitHeroes.com NH2 Launch"
 date: 2024-12-03
 draft: false
 tags: ["NotionHabitHeroes.com"]
@@ -13,7 +13,7 @@ Author: 'https://notionhabitheroes.com'
 
 # NotionHabitHeroes social competitive habit tracking app
 Join Notion Habit Heroes, the app for Gamification of your life!
-- [NotionHabitHeroes.com](https://notionhabitheroes.com)
+- [social competitive habit tracking app](https://notionhabitheroes.com)
 ## Seamless Notion integration
 some more text
 - [NotionHabitHeroes social competitive habit tracking app](#notionhabitheroes-social-competitive-habit-tracking-app)
