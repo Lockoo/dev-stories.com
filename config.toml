@@ -42,7 +42,7 @@ disqusShortname = "https-dev-stories-com"
   recent_posts_number = 5
   custom_css = ["css/custom.css"]
   mainSections = ["posts",]
-  tags = ["Hugo", "Java", ]
+  tags = ["Hugo", "Java", "notionhabitheroes.com"]
   Author = ["Lucas Spiller"]
 
 
