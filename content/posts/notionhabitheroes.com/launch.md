@@ -17,7 +17,7 @@ Join Notion Habit Heroes, the app for Gamification of your life!
 ## Seamless Notion integration
 some more text
 - [NotionHabitHeroes social competitive habit tracking app](#notionhabitheroes-social-competitive-habit-tracking-app)
-- [Seamless Notion integration](#seamless-Notion-integration)
+- [Seamless Notion integration](#seamless-notion-integration)
 
 
 # backstory
