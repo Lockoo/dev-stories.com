@@ -14,19 +14,16 @@ enableRobotsTXT = true
 
 disqusShortname = "https-dev-stories-com"
 
-
 [taxonomies]
   tag = "tags"
   category = "categories"
 
-[permalinks]
-tags = "/tags/:slug/"
 
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
- 
+
 
 [params]
   description = "Dev Blog about Enterprise Java, Cloud and the Daily Life of a Software Engineer"
@@ -45,7 +42,7 @@ tags = "/tags/:slug/"
   recent_posts_number = 5
   custom_css = ["css/custom.css"]
   mainSections = ["posts",]
-  tags = ["Hugo", "Java", "notionhabitheroes.com"]
+  tags = ["Hugo", "Java", "NotionHabitHeroes"]
   Author = ["Lucas Spiller"]
 
 

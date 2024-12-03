@@ -1,8 +1,8 @@
 ---
-title: "NotionHabitHeroes NH2 Launch"
+title: "https://NotionHabitHeroes.com NH2 Launch"
 date: 2024-12-03
 draft: true
-tags: ["NotionHabitHeroes.com"]
+tags: ["notionhabitheroes"]
 featured_image: "images/android-chrome-512x512.webp"
 toc: true
 Author: 'https://notionhabitheroes.com'
