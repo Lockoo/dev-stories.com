@@ -19,6 +19,9 @@ disqusShortname = "https-dev-stories-com"
   tag = "tags"
   category = "categories"
 
+[permalinks]
+tags = "/tags/:slug/"
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
