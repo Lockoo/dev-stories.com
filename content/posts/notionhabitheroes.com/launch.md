@@ -20,7 +20,3 @@ Participate in Challenges
 Stay accountable: Compare Scores & Streaks With Your Friends
 Celebrate Milestones Together And Achieve Goals
 
-
-
-# backstory
-(-> write about me first and link to it)
